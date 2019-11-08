@@ -7,6 +7,7 @@ This program will repeatedly generate a random string of characters (length spec
 The program keeps count of how many attempts it has made to generate a random string that matches with text in the given passage. Once it finds one, it will output how many attempts it took in addition to a short excerpt from the passage where the random string was found.
 
 EXAMPLE:
+
 Length of randomly generated search query: 3
 Attempt 1: faP
 Attempt 2: wLK
